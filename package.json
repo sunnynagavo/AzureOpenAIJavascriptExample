@@ -13,6 +13,7 @@
   "dependencies": {
     "@azure/ai-text-analytics": "^5.1.0",
     "@azure/cognitiveservices-computervision": "^8.2.0",
-    "@azure/ms-rest-js": "^2.7.0"
+    "@azure/ms-rest-js": "^2.7.0",
+    "@azure/openai": "^1.0.0-beta.12"
   }
 }
